@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://louisen0o0.github.io/zepunari-support/sitemap.xml
